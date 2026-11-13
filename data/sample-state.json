@@ -1,0 +1,30 @@
+{
+  "mastery": {
+    "signs": 0.25,
+    "scaling": 0.25,
+    "elimination": 0.15
+  },
+  "history": [],
+  "question": {
+    "id": 1,
+    "concept": "elimination",
+    "prompt": "R2 \u2190 R2 - 2R1. The first entries of R1 and R2 are 1 and 2. What is the new first entry of R2?",
+    "why": "Elimination has the lowest current mastery estimate.",
+    "hint_used": false
+  },
+  "matrix": [
+    [
+      2,
+      1,
+      5
+    ],
+    [
+      4,
+      -1,
+      7
+    ]
+  ],
+  "row_history": [],
+  "feedback": null,
+  "last_result": null
+}

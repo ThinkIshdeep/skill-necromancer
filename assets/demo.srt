@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:07,000
+Choose the next concept
+The tutor selects the lowest estimated mastery among signs, scaling and elimination.
+
+2
+00:00:07,000 --> 00:00:14,000
+Check a worked answer
+Answer the elimination prompt. A Bayesian knowledge-tracing update changes that concept’s estimate.
+
+3
+00:00:14,000 --> 00:00:21,000
+Validate exact row arithmetic
+Check R2 minus twice R1 using rational arithmetic. Alternative valid transformations are assessed by the stated operation.
+

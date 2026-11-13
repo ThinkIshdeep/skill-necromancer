@@ -1,0 +1,25 @@
+{
+  "release": "2.0.0",
+  "python_tests": 15,
+  "python_pass": true,
+  "javascript_parse_pass": true,
+  "view_render_and_action_wiring": {
+    "project": "skill-necromancer",
+    "rendered": true,
+    "wiredActions": 4,
+    "uniqueIds": 1,
+    "standaloneImports": true
+  },
+  "mobile_viewport": {
+    "project": "skill-necromancer",
+    "scrollWidth": 375,
+    "width": 375,
+    "heading": "Bring your maths back to life."
+  },
+  "platform": "Linux, Python 3.12, Chrome",
+  "browser_check": "Primary workflow exercised manually through the actual interface; see UI_GUIDE.md.",
+  "limitations": [
+    "No physical mobile device testing",
+    "Windows launcher and Docker execution not verified here"
+  ]
+}

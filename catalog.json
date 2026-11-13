@@ -1,0 +1,11 @@
+[
+  {
+    "id": "skill-necromancer",
+    "name": "Skill Necromancer",
+    "category": "Adaptive education",
+    "tagline": "Resurrect the concept hiding underneath that minus sign.",
+    "accent": "#a6c9f5",
+    "number": "08",
+    "module": "tutor"
+  }
+]
